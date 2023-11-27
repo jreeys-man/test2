@@ -10,7 +10,7 @@ int f(int n) {
 	}
 	return ans;
 }
-
+//µİ¹é
 //---------------------
 int A(int x, int y) {
 	int sum = 1;
@@ -23,7 +23,7 @@ int C(int x, int y) {
 	return A(x, y) / A(x, x);
 }
 
-
+//µİÍÆ
 //-----------------------
 int main() {
 	int n;
